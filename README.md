@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kavyaa 👋  
 
-<!--
-**Kavyaa156/Kavyaa156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 3rd-year Artificial Intelligence & Data Science student at SIES GST<br>
+- Web Development | C/C++ | DSA | DBMS<br>
+- I love building cool projects and learning new technologies
+- Exploring AI & ML
+- I enjoy participating in competitions and hackathons!
 
-Here are some ideas to get you started:
+## Let's Connect 🌐  
+- [LinkedIn](https://www.linkedin.com/in/kavyaamore156)<br>
+- morekavyaa06@email.com<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Kavyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavyaa156&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
